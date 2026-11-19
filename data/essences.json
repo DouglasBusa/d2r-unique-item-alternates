@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Stormweaver Essence",
+    "sockets": 3,
+    "bases": "Any Weapon or Shield",
+    "theme": "Lightning Caster",
+    "mods": "+2 All Skills, +25-35% Faster Cast Rate, +10-15% Lightning Skill Damage, -10-15% Enemy Lightning Resistance, +20-30 Energy, 5% Chance to Cast Level 10 Chain Lightning on Striking"
+  },
+  {
+    "name": "Ironheart Essence",
+    "sockets": 4,
+    "bases": "Body Armor or Helm",
+    "theme": "Tank / Physical",
+    "mods": "+150-200% Enhanced Defense, +30-40% Faster Hit Recovery, Damage Reduced by 10-15%, +40-60 Life, +15-25 Strength, 8% Chance to Cast Level 8 Iron Skin when Struck"
+  },
+  {
+    "name": "Voidwalker Essence",
+    "sockets": 2,
+    "bases": "Any Armor",
+    "theme": "Mobility / Caster",
+    "mods": "+1 All Skills, +20-30% Faster Run/Walk, +15-25% Faster Cast Rate, +10% Maximum Mana, +1 to Teleport, Magic Damage Reduced by 5-10"
+  },
+  {
+    "name": "Bloodforge Essence",
+    "sockets": 5,
+    "bases": "Melee Weapons",
+    "theme": "Life Steal / Physical",
+    "mods": "+180-240% Enhanced Damage, +30% Increased Attack Speed, 8-12% Life Stolen per Hit, 20-30% Chance of Open Wounds, +15-25 Strength, Prevent Monster Heal"
+  },
+  {
+    "name": "Frostveil Essence",
+    "sockets": 3,
+    "bases": "Helms or Shields",
+    "theme": "Cold Defense",
+    "mods": "+1 All Skills, +10-15% Cold Skill Damage, Cold Absorb 5-10%, Half Freeze Duration, All Resistances +20-30, +15-25 Energy"
+  },
+  {
+    "name": "Ashen Crown Essence",
+    "sockets": 4,
+    "bases": "Helms",
+    "theme": "Fire / Skills",
+    "mods": "+2 All Skills, +15-20% Fire Skill Damage, +20-30% Faster Cast Rate, Fire Resist +30-40%, +20-30 Energy, 6% Chance to Cast Level 12 Fireball on Striking"
+  },
+  {
+    "name": "Wraithguard Essence",
+    "sockets": 3,
+    "bases": "Body Armor",
+    "theme": "Summoner / Support",
+    "mods": "+1-2 to Summoning Skills, +20% Faster Cast Rate, +15-25 Energy, +5-10 Mana after each Kill, All Resistances +15-25, +100-150 Defense"
+  },
+  {
+    "name": "Predator's Mark Essence",
+    "sockets": 4,
+    "bases": "Missile Weapons or Claws",
+    "theme": "Amazon / Assassin",
+    "mods": "+2 to Amazon or Assassin Skills, +150-200% Enhanced Damage, +25% Increased Attack Speed, 5-8% Life Stolen per Hit, +15-20 Dexterity, Piercing Attack (30)"
+  },
+  {
+    "name": "Sacred Bastion Essence",
+    "sockets": 5,
+    "bases": "Paladin Shields",
+    "theme": "Paladin Defense",
+    "mods": "+2 Paladin Skills, +30-40% Increased Chance of Blocking, +30% Faster Block Rate, All Resistances +25-35, +20-30 Vitality, Level 8 Defiance Aura when Equipped"
+  },
+  {
+    "name": "Soulreaver Essence",
+    "sockets": 6,
+    "bases": "Any Melee Weapon",
+    "theme": "High Damage / Leech",
+    "mods": "+200-280% Enhanced Damage, +35% Increased Attack Speed, 10-15% Life Stolen per Hit, 8-12% Mana Stolen per Hit, +20-30 All Attributes, Indestructible"
+  },
+  {
+    "name": "Eclipse Ward Essence",
+    "sockets": 2,
+    "bases": "Shields",
+    "theme": "Caster Shield",
+    "mods": "+1 All Skills, +20-30% Faster Cast Rate, +15-25% Maximum Mana, Magic Damage Reduced by 8-12, All Resistances +15-20"
+  },
+  {
+    "name": "Thornweave Essence",
+    "sockets": 3,
+    "bases": "Body Armor",
+    "theme": "Reflect / Defense",
+    "mods": "+120-160% Enhanced Defense, Attacker Takes Damage of 20-40, Damage Reduced by 8-12%, +20-30% Faster Hit Recovery, +15 Strength, Thorns Aura when Equipped"
+  },
+  {
+    "name": "Mindflare Essence",
+    "sockets": 4,
+    "bases": "Orbs or Staves",
+    "theme": "Sorceress",
+    "mods": "+3 Sorceress Skills, +30-40% Faster Cast Rate, +10-15% to All Elemental Skill Damage, +25-35 Energy, +10% Maximum Mana, 5% Chance to Cast Level 1 Teleport when Struck"
+  },
+  {
+    "name": "Gravebound Essence",
+    "sockets": 3,
+    "bases": "Shrunken Heads or Wands",
+    "theme": "Necromancer",
+    "mods": "+2 Necromancer Skills, +20% Faster Cast Rate, +15-20% Poison Skill Damage, +20 Energy, +5 Mana after each Kill, +2 to Curses"
+  },
+  {
+    "name": "Wildheart Essence",
+    "sockets": 4,
+    "bases": "Pelts or Druid Weapons",
+    "theme": "Druid",
+    "mods": "+2 Druid Skills, +150-200% Enhanced Defense, +25% Faster Hit Recovery, +20 Strength, +20 Energy, +2 to Shape Shifting, All Resistances +20"
+  }
+]

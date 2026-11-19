@@ -1,21 +1,22 @@
-# D2R Unique Item & Runeword Alternates
+# D2R Unique Item & Essence Alternates
 
-Alternate / reimagined versions of Diablo 2 Resurrected Uniques and Runewords.
+Alternate / reimagined versions of Diablo 2 Resurrected items, plus a custom **Essence** system.
 
 Inspired by the database at [diablo2.io](https://diablo2.io/).
 
 ## Contents
 
 - `data/uniques.json` – Unique items with original-style and alternate mods
-- `data/runewords.json` – Runewords with original-style and alternate mods
-- `TODO.md` – List of items still needing full extraction and alternate versions from diablo2.io
+- `data/class_specific.json` – Class-specific uniques with alternates
+- `data/essences.json` – **Essence system** (rebuilt socketed items — no runes, variable sockets)
+- `TODO.md` – Remaining items still needed from diablo2.io
 
-## Status
+## Essence System
 
-This is a work in progress. The files currently contain a starter set of popular items. See `TODO.md` for the remaining items that still need to be ripped and given alternate versions.
+Essences replace traditional runewords. They are socketed into bases with **variable socket counts** (2–6) and provide unique combinations of stats. No runes required — just socket the Essence into a matching base.
 
 ## Notes
 
-- Alternates aim to keep similar power level while shifting theme or mechanical focus.
-- Socket counts and base types follow standard D2R rules.
+- Alternates and Essences aim for similar power level while shifting theme or mechanical focus.
+- Socket counts and base restrictions are custom for the Essence system.
 - Data is for reference / creative use only.
