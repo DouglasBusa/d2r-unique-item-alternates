@@ -1,0 +1,189 @@
+[
+  {
+    "original_name": "Titan's Revenge",
+    "alternate_name": "Titan's Wrath",
+    "class": "Amazon",
+    "category": "Javelin",
+    "base": "Ceremonial Javelin",
+    "req_level": 42,
+    "sockets": "None",
+    "original_mods": "+2 Amazon Skills, +150-200% ED, Adds 25-50 Dmg, 5-9% Life Steal, +30% FRW, +20 Str, +20 Dex, Replenishes Quantity, +2 Javelin & Spear Skills",
+    "alternate_mods": "+2 Amazon Skills, +160-210% ED, Adds 30-60 Lightning Dmg, 6-10% Life Steal, +25% FRW, +15 Str, +25 Dex, Replenishes Quantity faster, +3 Javelin & Spear Skills"
+  },
+  {
+    "original_name": "Lycander's Aim",
+    "alternate_name": "Lycander's Focus",
+    "class": "Amazon",
+    "category": "Bow",
+    "base": "Ceremonial Bow",
+    "req_level": 42,
+    "sockets": "1-2",
+    "original_mods": "+2 Amazon Skills, +150-200% ED, Adds 25-50 Dmg, +20% IAS, 5-8% Mana Steal, +20 Energy, +20 Dex, +2 Bow & Crossbow Skills",
+    "alternate_mods": "+2 Amazon Skills, +140-190% ED, Adds 40-80 Fire Dmg, +25% IAS, 6% Life Steal, +15 Energy, +25 Dex, +3 Bow & Crossbow Skills, Explosive Arrows"
+  },
+  {
+    "original_name": "Lycander's Flank",
+    "alternate_name": "Lycander's Charge",
+    "class": "Amazon",
+    "category": "Spear",
+    "base": "Ceremonial Pike",
+    "req_level": 42,
+    "sockets": "1-2",
+    "original_mods": "+2 Amazon Skills, +150-200% ED, Adds 25-50 Dmg, +30% IAS, 5-9% Life Steal, +20 Str, +20 Vit, +2 Javelin & Spear Skills",
+    "alternate_mods": "+2 Amazon Skills, +170-220% ED, Adds 20-40 Cold Dmg, +20% IAS, 7% Life Steal, +25 Str, +15 Vit, +3 Javelin & Spear Skills, Prevent Monster Heal"
+  },
+  {
+    "original_name": "Thunderstroke",
+    "alternate_name": "Stormstroke",
+    "class": "Amazon",
+    "category": "Javelin",
+    "base": "Matriarchal Javelin",
+    "req_level": 69,
+    "sockets": "None",
+    "original_mods": "+2 Amazon Skills, +150-200% ED, Adds 1-511 Lightning Dmg, +15% IAS, +3 to Lightning Fury, +3 to Charged Strike, +20 Str, +20 Dex",
+    "alternate_mods": "+2 Amazon Skills, +160-210% ED, Adds 1-400 Lightning Dmg, +20% IAS, +4 to Lightning Fury, +2 to Charged Strike, +15 Str, +25 Dex, 10% CTC Lvl 10 Chain Lightning"
+  },
+  {
+    "original_name": "Bartuc's Cut-Throat",
+    "alternate_name": "Bartuc's Shadow",
+    "class": "Assassin",
+    "category": "Claw",
+    "base": "Greater Talons",
+    "req_level": 42,
+    "sockets": "1-2",
+    "original_mods": "+2 Assassin Skills, +150-200% ED, Adds 25-50 Dmg, +30% FHR, 20% Bonus to AR, 5-9% Life Steal, +20 Str, +20 Dex, +1 Martial Arts",
+    "alternate_mods": "+2 Assassin Skills, +140-190% ED, Adds 30-70 Poison Dmg, +25% FHR, 25% Bonus to AR, 6% Mana Steal, +15 Str, +25 Dex, +2 Martial Arts, +1 Shadow Disciplines"
+  },
+  {
+    "original_name": "Shadow Killer",
+    "alternate_name": "Shadow Reaper",
+    "class": "Assassin",
+    "category": "Claw",
+    "base": "Battle Cestus",
+    "req_level": 78,
+    "sockets": "1-2",
+    "original_mods": "+170-220% ED, -25% Target Defense, Freezes Target +2, +10-15 Mana after Kill, 33% CTC Lvl 8 Frost Nova, Indestructible, Ethereal",
+    "alternate_mods": "+150-200% ED, -20% Target Defense, Freezes Target +3, +15-20 Mana after Kill, 25% CTC Lvl 10 Blades of Ice, Indestructible, +2 Assassin Skills"
+  },
+  {
+    "original_name": "Arreat's Face",
+    "alternate_name": "Arreat's Wrath",
+    "class": "Barbarian",
+    "category": "Helm",
+    "base": "Slayer Guard",
+    "req_level": 42,
+    "sockets": "1-2",
+    "original_mods": "+2 Barbarian Skills, +150-200% ED, +30% FHR, 20% Bonus to AR, 3-6% Life Steal, All Res +30, +20 Str, +20 Dex, +2 Combat Skills",
+    "alternate_mods": "+2 Barbarian Skills, +140-180% ED, +40% FHR, 25% Bonus to AR, 5% Life Steal, All Res +25, +25 Str, +15 Dex, +3 Combat Skills, +1 Warcries"
+  },
+  {
+    "original_name": "Demonhorn's Edge",
+    "alternate_name": "Demonhorn's Fury",
+    "class": "Barbarian",
+    "category": "Helm",
+    "base": "Destroyer Helm",
+    "req_level": 61,
+    "sockets": "1-2",
+    "original_mods": "+120-160% ED, +10-20% IAS, 3-6% Life Steal, Attacker Takes Dmg 55-77, +3 to Warcries, +3 to Masteries",
+    "alternate_mods": "+130-170% ED, +15-25% IAS, 5% Life Steal, Attacker Takes Dmg 40-60, +2 to Warcries, +4 to Masteries, +20% Deadly Strike"
+  },
+  {
+    "original_name": "Jalal's Mane",
+    "alternate_name": "Jalal's Roar",
+    "class": "Druid",
+    "category": "Pelt",
+    "base": "Totemic Mask",
+    "req_level": 42,
+    "sockets": "1-2",
+    "original_mods": "+2 Druid Skills, +150-200% ED, +30% FHR, 20% Bonus to AR, All Res +30, +5 Mana after Kill, +20 Str, +20 Energy, +2 Shape Shifting",
+    "alternate_mods": "+2 Druid Skills, +140-190% ED, +25% FHR, 25% Bonus to AR, All Res +25, +8 Mana after Kill, +25 Str, +15 Energy, +3 Shape Shifting, +1 Elemental"
+  },
+  {
+    "original_name": "Ravenlore",
+    "alternate_name": "Raven's Call",
+    "class": "Druid",
+    "category": "Pelt",
+    "base": "Sky Spirit",
+    "req_level": 74,
+    "sockets": "1-2",
+    "original_mods": "+2 Druid Skills, +100-150% ED, +20-30% FCR, +7-12 Raven, +2-4 to Summoning, +20-30 Energy, +150-200 Defense",
+    "alternate_mods": "+2 Druid Skills, +90-140% ED, +25-35% FCR, +5-10 Raven, +3-5 to Summoning, +25-35 Energy, +100-150 Defense, +1 Elemental"
+  },
+  {
+    "original_name": "Homunculus",
+    "alternate_name": "Homunculus Prime",
+    "class": "Necromancer",
+    "category": "Shrunken Head",
+    "base": "Hierophant Trophy",
+    "req_level": 42,
+    "sockets": "1-2",
+    "original_mods": "+2 Necromancer Skills, +150-200% ED, +5 Mana after Kill, +40% Block, +30% FBR, +20 Energy, 33% Regenerate Mana, All Res +40, +2 Curses",
+    "alternate_mods": "+2 Necromancer Skills, +140-180% ED, +8 Mana after Kill, +35% Block, +40% FBR, +25 Energy, 25% Regenerate Mana, All Res +35, +3 Curses"
+  },
+  {
+    "original_name": "Darkforce Spawn",
+    "alternate_name": "Darkforce Lord",
+    "class": "Necromancer",
+    "category": "Shrunken Head",
+    "base": "Bloodlord Skull",
+    "req_level": 65,
+    "sockets": "1-2",
+    "original_mods": "+2 Necromancer Skills, +140-180% ED, +1-3 to Summoning, +20-30% FCR, +10-15% to Poison Skill Damage, +20-30 Energy",
+    "alternate_mods": "+2 Necromancer Skills, +130-170% ED, +2-4 to Summoning, +15-25% FCR, +15-20% to Poison Skill Damage, +25-35 Energy, +1 Poison & Bone"
+  },
+  {
+    "original_name": "Herald of Zakarum",
+    "alternate_name": "Herald of the Light",
+    "class": "Paladin",
+    "category": "Shield",
+    "base": "Gilded Shield",
+    "req_level": 42,
+    "sockets": "1-2",
+    "original_mods": "+2 Paladin Skills, +150-200% ED, +30% Block, +30% FBR, +20% Bonus to AR, +20 Str, +20 Vit, All Res +50, +2 Combat Skills",
+    "alternate_mods": "+2 Paladin Skills, +140-190% ED, +25% Block, +40% FBR, +25% Bonus to AR, +25 Str, +15 Vit, All Res +40, +3 Combat Skills, +1 Offensive Auras"
+  },
+  {
+    "original_name": "Alma Negra",
+    "alternate_name": "Alma Sanctus",
+    "class": "Paladin",
+    "category": "Shield",
+    "base": "Sacred Rondache",
+    "req_level": 77,
+    "sockets": "1-2",
+    "original_mods": "+1-2 Paladin Skills, +180-210% ED, +30% Block, +30% FBR, +40-75% ED, +10-15% to Maximum Damage, +40-60% Damage to Demons, +40-60% Damage to Undead",
+    "alternate_mods": "+2 Paladin Skills, +160-200% ED, +35% Block, +25% FBR, +30-60% ED, +15-20% to Maximum Damage, +50-70% Damage to Demons, +30-50% Damage to Undead, +1 Defensive Auras"
+  },
+  {
+    "original_name": "The Oculus",
+    "alternate_name": "The Nexus",
+    "class": "Sorceress",
+    "category": "Orb",
+    "base": "Swirling Crystal",
+    "req_level": 42,
+    "sockets": "None",
+    "original_mods": "+3 Sorceress Skills, 25% CTC Lvl 1 Teleport when Struck, +20% All Res, +30% FCR, +20 Vit, +20 Energy, +5 Mana after Kill",
+    "alternate_mods": "+3 Sorceress Skills, 15% CTC Lvl 3 Teleport when Struck, +25% All Res, +40% FCR, +15 Vit, +30 Energy, +8 Mana after Kill, +10% Max Mana"
+  },
+  {
+    "original_name": "Eschuta's Temper",
+    "alternate_name": "Eschuta's Flame",
+    "class": "Sorceress",
+    "category": "Orb",
+    "base": "Eldritch Orb",
+    "req_level": 72,
+    "sockets": "None",
+    "original_mods": "+1-3 Sorceress Skills, +40% FCR, +10-20% Fire Skill Damage, +10-20% Lightning Skill Damage, +20-30 Energy",
+    "alternate_mods": "+2-3 Sorceress Skills, +35% FCR, +15-25% Fire Skill Damage, +5-15% Lightning Skill Damage, +25-35 Energy, -5-10% Enemy Fire Resistance"
+  },
+  {
+    "original_name": "Death's Fathom",
+    "alternate_name": "Death's Depths",
+    "class": "Sorceress",
+    "category": "Orb",
+    "base": "Dimensional Shard",
+    "req_level": 73,
+    "sockets": "None",
+    "original_mods": "+3 Sorceress Skills, +15-30% Cold Skill Damage, +25-40% FCR, Lightning Res +25-40%, Fire Res +25-40%",
+    "alternate_mods": "+3 Sorceress Skills, +20-35% Cold Skill Damage, +20-35% FCR, Cold Res +30-45%, -5-10% Enemy Cold Resistance, +15 Energy"
+  }
+]
