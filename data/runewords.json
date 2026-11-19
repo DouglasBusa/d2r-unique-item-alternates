@@ -1,0 +1,52 @@
+[
+  {
+    "original_name": "Spirit",
+    "alternate_name": "Spirit of Kings",
+    "sockets": 4,
+    "bases": "Swords, Shields",
+    "runes": "Tal + Thul + Ort + Amn",
+    "req_level": 25,
+    "original_mods": "+2 All Skills, 25-35% FCR, +55% FHR, +250 Defense vs Missile, +22 Vit, +89-112 Mana, Cold/Light/Poison Res +35",
+    "alternate_mods": "+2 All Skills, 30-40% FCR, +45% FHR, +200 Defense vs Missile, +18 Vit, +100-130 Mana, All Res +25"
+  },
+  {
+    "original_name": "Insight",
+    "alternate_name": "Insight of the Ancients",
+    "sockets": 4,
+    "bases": "Polearms, Staves",
+    "runes": "Ral + Tir + Tal + Sol",
+    "req_level": 27,
+    "original_mods": "Level 12-17 Meditation Aura, +35% FCR, +200-260% ED, +9 Min Dmg, 180-250% Bonus to AR, +5-30 All Attributes, +75% Damage to Undead",
+    "alternate_mods": "Level 14-18 Meditation Aura, +25% FCR, +180-230% ED, +12 Min Dmg, 150-220% Bonus to AR, +3-25 All Attributes, +100% Damage to Demons"
+  },
+  {
+    "original_name": "Call to Arms",
+    "alternate_name": "Call of the Warlord",
+    "sockets": 5,
+    "bases": "Weapons",
+    "runes": "Amn + Ral + Mal + Ist + Ohm",
+    "req_level": 57,
+    "original_mods": "+1 All Skills, +2-6 Battle Command, +1-6 Battle Orders, +1-4 Battle Cry, +40% IAS, +250-290% ED, Adds 5-30 Fire Dmg, 7% Life Steal",
+    "alternate_mods": "+1 All Skills, +3-7 Battle Command, +2-6 Battle Orders, +1-3 Battle Cry, +30% IAS, +220-260% ED, Adds 10-40 Cold Dmg, 5% Life Steal, +20 Life"
+  },
+  {
+    "original_name": "Enigma",
+    "alternate_name": "Enigma of Shadows",
+    "sockets": 3,
+    "bases": "Body Armor",
+    "runes": "Jah + Ith + Ber",
+    "req_level": 65,
+    "original_mods": "+2 All Skills, +45% FRW, +1 Teleport, +750-775 Defense, +(0.75/lvl) Str, Increase Max Life 5%, Damage Reduced 8%, +14 Life after Kill",
+    "alternate_mods": "+2 All Skills, +35% FRW, +1 Teleport, +650-700 Defense, +(0.5/lvl) Str, Increase Max Life 8%, Damage Reduced 6%, +10 Life after Kill, +10% FCR"
+  },
+  {
+    "original_name": "Infinity",
+    "alternate_name": "Infinity's Edge",
+    "sockets": 4,
+    "bases": "Polearms",
+    "runes": "Ber + Mal + Ber + Ist",
+    "req_level": 63,
+    "original_mods": "Level 12 Conviction Aura, +35% FCR, +255-325% ED, -45-55% Enemy Lightning Res, 40% CB, Prevent Monster Heal, +0.5% to Max Lightning Res",
+    "alternate_mods": "Level 14 Conviction Aura, +25% FCR, +220-290% ED, -40-50% Enemy Fire Res, 35% CB, Prevent Monster Heal, +10% Fire Skill Damage"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "original_name": "Harlequin Crest",
+    "alternate_name": "Harlequin's Gaze",
+    "category": "Helm",
+    "base": "Shako",
+    "req_level": 62,
+    "sockets": "1-2",
+    "original_mods": "+2 All Skills, +(1.5/lvl) Life, +(1.5/lvl) Mana, 10% Damage Reduced, 50% MF",
+    "alternate_mods": "+2 All Skills, +(2/lvl) Life, +(1/lvl) Mana, 15% Damage Reduced, 35% MF, +10% FCR"
+  },
+  {
+    "original_name": "Windforce",
+    "alternate_name": "Stormforce",
+    "category": "Bow",
+    "base": "Hydra Bow",
+    "req_level": 73,
+    "sockets": "1-2",
+    "original_mods": "+250% ED, +(3.125/lvl) Max Dmg, 20% IAS, 6-8% Mana Steal, Knockback, +10 Str, +5 Dex",
+    "alternate_mods": "+220% ED, Adds 1-200 Lightning Dmg, 25% IAS, 5% Life Steal, Knockback, +2 Amazon Skills, +15 Dex"
+  },
+  {
+    "original_name": "The Oculus",
+    "alternate_name": "The Nexus",
+    "category": "Orb",
+    "base": "Swirling Crystal",
+    "req_level": 42,
+    "sockets": "None",
+    "original_mods": "+3 Sorceress Skills, 25% CTC Lvl 1 Teleport when Struck, 20% All Res, 30% FCR, +20 Vit, +20 Energy",
+    "alternate_mods": "+3 Sorceress Skills, 15% CTC Lvl 5 Teleport when Struck, 25% All Res, 40% FCR, +30 Energy, +15% Max Mana"
+  },
+  {
+    "original_name": "Stormshield",
+    "alternate_name": "Tempestshield",
+    "category": "Shield",
+    "base": "Monarch",
+    "req_level": 73,
+    "sockets": "1-3",
+    "original_mods": "+25% Block, 35% FBR, 35% Lightning Absorb, +30 Str, Damage Reduced 35%, Indestructible",
+    "alternate_mods": "+30% Block, 40% FBR, 20% Lightning Absorb, +25 Str, Damage Reduced 25%, +1 All Skills, Lightning Res +40%"
+  },
+  {
+    "original_name": "Dracul's Grasp",
+    "alternate_name": "Bloodgrasp",
+    "category": "Gloves",
+    "base": "Vampirebone Gloves",
+    "req_level": 76,
+    "sockets": "None",
+    "original_mods": "10% CTC Lvl 15 Life Tap on Striking, 5-10% Life Steal, 25% Open Wounds, +10-15 Str, +5-10 Life after Kill",
+    "alternate_mods": "8% CTC Lvl 12 Life Tap on Striking, 8-12% Life Steal, 30% Open Wounds, +15 Str, +8 Life after Kill, +20% IAS"
+  },
+  {
+    "original_name": "Mara's Kaleidoscope",
+    "alternate_name": "Mara's Prism",
+    "category": "Amulet",
+    "base": "Amulet",
+    "req_level": 67,
+    "sockets": "None",
+    "original_mods": "+2 All Skills, All Res +20-30, +5 All Attributes",
+    "alternate_mods": "+2 All Skills, All Res +15-25, +10-15% to All Elemental Skill Damage, +10 All Attributes"
+  },
+  {
+    "original_name": "Arachnid Mesh",
+    "alternate_name": "Widow's Mesh",
+    "category": "Belt",
+    "base": "Spiderweb Sash",
+    "req_level": 80,
+    "sockets": "None",
+    "original_mods": "+1 All Skills, 20% FCR, +5% Max Mana, Level 3 Venom (11 Charges), Slows Target 10%",
+    "alternate_mods": "+1 All Skills, 25% FCR, +8% Max Mana, +40 Life, +15% Poison Skill Damage, Slows Target 15%"
+  },
+  {
+    "original_name": "Griffon's Eye",
+    "alternate_name": "Griffon's Storm",
+    "category": "Helm",
+    "base": "Diadem",
+    "req_level": 76,
+    "sockets": "1-2",
+    "original_mods": "+1 All Skills, 25% FCR, -15-20% Enemy Lightning Res, +10-15% Lightning Skill Damage",
+    "alternate_mods": "+1 All Skills, 30% FCR, -10-15% Enemy Lightning Res, +15-20% Lightning Skill Damage, +20 Energy"
+  },
+  {
+    "original_name": "Andariel's Visage",
+    "alternate_name": "Andariel's Fury",
+    "category": "Helm",
+    "base": "Demonhead",
+    "req_level": 83,
+    "sockets": "1-2",
+    "original_mods": "+2 All Skills, 10% CTC Lvl 15 Poison Nova when Struck, +20% IAS, Poison Res +70%, +25-30 Str",
+    "alternate_mods": "+2 All Skills, 8% CTC Lvl 18 Poison Nova when Struck, +30% IAS, Poison Res +50%, +20 Str, +15% Poison Skill Damage"
+  },
+  {
+    "original_name": "Crown of Ages",
+    "alternate_name": "Crown of Eternity",
+    "category": "Helm",
+    "base": "Corona",
+    "req_level": 82,
+    "sockets": "1-2",
+    "original_mods": "+1 All Skills, Damage Reduced 10-15%, All Res +20-30, +30% FHR, Indestructible, Socketed 1-2",
+    "alternate_mods": "+1 All Skills, Damage Reduced 15-20%, All Res +15-25, +40% FHR, +50 Defense, Indestructible, Socketed 1-2"
+  }
+]
